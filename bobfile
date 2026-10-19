@@ -2,9 +2,13 @@ include https://raw.githubusercontent.com/codemonstur/bobfiles/master/foss-app-g
 
 packaging: bob-plugin
 enablePreview: false
+release: 17
 version: 1
 dependencies:
   - project: ../bobthebuildtool
     scope: provided
-  - repository: org.flywaydb:flyway-core:9.21.2
-  - repository: org.mariadb.jdbc:mariadb-java-client:3.2.0
+  - repository: org.flywaydb:flyway-core:13.10.3
+  - repository: org.flywaydb:flyway-mysql:13.10.3
+  - repository: org.mariadb.jdbc:mariadb-java-client:3.5.10
+  - repository: junit:junit:4.13.2
+    scope: test
