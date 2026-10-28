@@ -10,5 +10,5 @@ dependencies:
   - repository: org.flywaydb:flyway-core:13.10.3
   - repository: org.flywaydb:flyway-mysql:13.10.3
   - repository: org.mariadb.jdbc:mariadb-java-client:3.5.10
-  - repository: junit:junit:4.13.2
+  - repository: org.junit.jupiter:junit-jupiter:6.1.3
     scope: test
