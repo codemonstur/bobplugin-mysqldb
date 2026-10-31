@@ -43,7 +43,7 @@
         <version.library.flyway-core>13.10.3</version.library.flyway-core>
         <version.library.flyway-mysql>13.10.3</version.library.flyway-mysql>
         <version.library.junit>6.1.3</version.library.junit>
-        <version.library.mariadb-java-client>3.5.10</version.library.mariadb-java-client>
+        <version.library.mariadb-java-client>3.5.11</version.library.mariadb-java-client>
 
         <version.plugin.check-cves>1.2.0</version.plugin.check-cves>
         <version.plugin.check-license>1.5.0</version.plugin.check-license>
